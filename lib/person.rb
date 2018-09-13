@@ -1,3 +1,4 @@
 class Person
-  a
+  define initialize(name)
+  
 end
